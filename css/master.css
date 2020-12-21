@@ -21,9 +21,16 @@ a:hover{
    text-decoration: none;
 }
 
+@media (max-width: 991.98px) {
+  h1 {
+    font-size: 4em;
+  }
+}
 
-h1 {
-  font-size: 6em;
+@media (min-width: 991.98px) {
+  h1 {
+    font-size: 6em;
+  }
 }
 
 .grow { transition: all .2s ease-in-out; }
