@@ -1,4 +1,20 @@
 {
+    "education": [
+        {
+            "name": "Lake Mary Preparatory",
+            "location": "Lake Mary, FL USA",
+            "awarded": "High School Diploma",
+            "graduationYear": "2020",
+            "desc": "Valedictorian - 4.49"
+        },
+        {
+            "name": "University of North Florida",
+            "location": "Jacksonville, FL USA",
+            "awarded": "Bachelor of Science in Computer Science",
+            "graduationYear": "2023",
+            "desc": "Summa Cum Laude - 4.0 - Phi Kappa Phi"
+        }
+    ],
     "projects": [
         {
             "title": "Aspin",
@@ -9,6 +25,16 @@
                 "alt": "Spin wave Photo"
             },
             "desc": "Python library to simulate waves between subatomic particles in conjunction with Los Alamos National Laboratory"
+        },
+        {
+            "title": "OPRAST",
+            "subtitle":"Osprey Post Flight Analysis Software (5/2023)",
+            "link":"",
+            "media": {
+                "path": "/assets/images/projects/OPRAST.PNG",
+                "alt": "OPRAST Logo"
+            },
+            "desc": "Python and Unity simulation tool to calcuate the trajectory of model rockets"
         },
         {
             "title": "Ptah Console",
