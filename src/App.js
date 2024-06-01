@@ -3,7 +3,7 @@ import Splash from './sections/splash/Splash';
 
 export default function() {
   return (
-    <Stack direction="column" justifyContent="flex-start" alignItems="stretch" spacing={0}>
+    <Stack direction="column" justifyContent="flex-start" alignItems="stretch" spacing={0} sx={{backgroundColor: "background.body"}}>
         <Splash />
     </Stack>
   );
