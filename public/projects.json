@@ -1,0 +1,44 @@
+{
+    "projects": [
+        {
+            "title": "Aspin",
+            "subtitle":"1/2022 - 6/2023",
+            "link":"",
+            "media": {
+                "path": "/assets/images/projects/Graph1.JPG",
+                "alt": "Spin wave Photo"
+            },
+            "desc": "Python library to simulate waves between subatomic particles in conjunction with Los Alamos National Laboratory"
+        },
+        {
+            "title": "Ptah Console",
+            "subtitle":"6/2022 - 5/2023",
+            "link":"",
+            "media": {
+                "path": "/assets/images/projects/AtomicLegoLab_350.png",
+                "alt": "Ptah Screen Shot"
+            },
+            "desc": "React and NodeJS application to control and automate embedded laboratory equipment to layer materials on a molecular scale (i.e. Molecular Beam Epitaxy) for further inspection and research"
+        },
+        {
+            "title": "Health Points",
+            "subtitle":"8/2020 - 6/2021",
+            "link":"",
+            "media": {
+                "path": "/assets/images/projects/hp-1-426x426.png",
+                "alt": "Health Points Logo"
+            },
+            "desc": "PWA for COVID-19 screening at K-12 Schools using NodeJS, MongoDB, and Bootstrap"
+        },
+        {
+            "title": "UNF Dining",
+            "subtitle":"8/2020 - 6/2021",
+            "link":"",
+            "media": {
+                "path": "/assets/images/projects/uunfdining-1076x1076.png",
+                "alt": "UNF Dining Icon"
+            },
+            "desc": "React Native application to present dining API and financial information to students for a better user experience"
+        }
+    ]
+}
