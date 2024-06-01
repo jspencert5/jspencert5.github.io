@@ -4,7 +4,7 @@ import EducationStep from "./educationStep";
 export default function({education}){
     return (
         <Box display="flex" width="100vw" alignItems="center" justifyContent="center">
-            <Stepper size="lg" sx={{ width: '50vw', paddingY: "5em" }}>
+            <Stepper orientation="horizontal" size="lg" sx={{ overflowX: "scroll", width: {xs: "95vw",sm: "50vw"}, paddingY: "5em" }}>
                 {
                     education.map((insitution, index) => {
                         return (
